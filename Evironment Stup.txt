@@ -1,0 +1,37 @@
+Evironment Setup
+Step 1: Open a Web Browser
+Open Chrome, Edge, or any web browser.
+Step 2: Go to the Oracle JDK Website
+Visit the Oracle JDK download page.
+Step 3: Select the JDK Version
+Choose the latest JDK version (or the version required by your college).
+Step 4: Choose Your Operating System
+Select Windows.
+Step 5: Download the Installer
+Click the Windows x64 Installer (.exe) file and download it.
+Step 6: Run the Installer
+Double-click the downloaded .exe file.
+Step 7: Start Installation
+Click Next.
+Step 8: Choose Installation Location
+Keep the default installation path (or choose another folder), then click Next.
+Step 9: Install JDK
+Click Install and wait for the installation to complete.
+Step 10: Finish Installation
+Click Finish.
+Step 11: Verify the Installation
+Open Command Prompt and type:
+Bash
+java -version
+Press Enter.
+Then type:
+Bash
+javac -version
+Press Enter.
+If both commands display the JDK version, the installation was successful.
+Example Output:
+Plain text
+java version "26"
+
+javac 26
+Your JDK is now installed and ready to use.
